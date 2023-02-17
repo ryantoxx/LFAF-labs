@@ -1,4 +1,4 @@
-# The title of the work
+# Intro to formal languages.Regular grammars and Finite Automata.
 
 ### Course: Formal Languages & Finite Automata
 ### Author: Chihai Nichita
