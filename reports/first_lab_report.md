@@ -121,11 +121,13 @@ where:
 ## Screenshots / Results
 * My variant was number 10:
 
-image.pngimage.png
+![image](https://user-images.githubusercontent.com/114425150/219773236-a827fb16-e065-4233-b80c-c49013adbfd4.png)
+
 
 * The genrating strings + checking whether belongs to FA
 
-image.png
+![image](https://user-images.githubusercontent.com/114425150/219773409-20b80ff5-6ae3-4394-8530-5b785e0e5e23.png)
+
 
 
 ## Conclusions 
