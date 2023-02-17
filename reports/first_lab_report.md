@@ -131,5 +131,5 @@ where:
 
 
 ## Conclusions 
-In this laboratory work I developed the basic logic in understandint the purpose of a language, regular grammar and it's applications.To my mind the trickiest part of the undestadint of the Finite Automaton and it's purpose, it was quite challenging for me to understand this concept, which I'm satiesfied that I managed to implement it here.
+In this laboratory work I developed the basic logic in understanding the purpose of a language, regular grammar and it's applications.To my mind the trickiest part was the undestading of the Finite Automaton and it's purpose, it was quite challenging for me to understand this concept, which I'm satiesfied that I managed to implement it here.
 To sum up this laboratory work a great introduction to the theme and to further projects.
