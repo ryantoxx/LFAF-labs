@@ -1,5 +1,5 @@
 class finiteAutomata:
-    def __init__(self, delta, F, q0, sigma):
+    def __init__(self, delta, F, sigma, q0):
         self.delta = delta
         self.F = F
         self.q0 = q0
