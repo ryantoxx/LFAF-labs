@@ -119,7 +119,7 @@ My finite automaton is deterministic.
 
 ## Screenshots / Results
 
-* Variant:
+* Variant number 10:
 
 ![Variant Number 10:](/img/variant.png)
 
