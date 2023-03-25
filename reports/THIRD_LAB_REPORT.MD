@@ -26,7 +26,7 @@ The purpose of lexical analysis is to simplify the process of parsing a programm
 * First I defined a set of constants that will be used as token types for the lexer.
 
 ```
-INT		 = 'INT'
+INT		    = 'INT'
 FLOAT    = 'FLOAT'
 PLUS     = 'PLUS'
 MINUS    = 'MINUS'
