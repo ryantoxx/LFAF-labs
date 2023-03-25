@@ -30,7 +30,6 @@ where:
 5. Implement some functionality that would convert and object of type Grammar to one of type Finite Automaton
 6. For the Finite Automaton, please add a method that checks if an input string can be obtained via the state transition from it;
 
-
 ## Implementation description
 
 * Function that generates strings:
