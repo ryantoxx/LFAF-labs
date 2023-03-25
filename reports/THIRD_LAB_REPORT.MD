@@ -152,12 +152,14 @@ while True:
 ## Screenshots / Results
 1. Succesful sample example:
     - Input: 20 + (2.5 * 15) - 40 / 5 = 64.33
+    - Output:
 ```
 [INT: '20', PLUS: '+', LPAREN: '(', FLOAT: '2.5', MUL: '*', INT: '15', RPAREN: ')', MINUS: '-', INT: '40', DIV: '/', INT: '5', EQUAL: '=', FLOAT: '64.33']
 ```
 
 2. Failed sample example:
     - Input 12 * 32 = a / 4
+    - Output:
 ```
 Illegal Character: 'a'
 File <example.txt, line 1
