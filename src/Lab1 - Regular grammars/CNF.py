@@ -28,8 +28,6 @@ class CNF:
         self.P = P
         print("\nP = ", self.P)
 
-
-    # method to eliminate renaming
     def unit_production(self):
         for production in self.P:
             for symbol in self.P[production]:
@@ -38,7 +36,6 @@ class CNF:
                     self.P[production].extend(self.P[symbol])
         print("\nP = ", self.P)
 
-    # method to eliminate inaccessible symbols
     def eliminate_useless_symbols(self):
         reached = set()
         for vt in self.VN:
