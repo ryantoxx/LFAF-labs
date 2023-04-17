@@ -144,9 +144,9 @@ P = {'S0': ['S'], 'S': ['FB', 'a', 'GS'], 'B': ['a', 'GS'], 'F': 'd', 'G': 'a'}
 
 ## Conclusions 
 
-In this laboratory work I managed to convert my context free grammar to its chomsky normal form. I analyzed the steps and rules that it takes to convert the certain CFG to its CNF form. Implementing CNF in python allowed me to  transform grammar into a form that is easy to work with.
+I successfully converted my context-free grammar into its Chomsky Normal Form (CNF) during my lab work, and I carefully evaluated the procedures and rules necessary to accomplish this conversion.Using Python to implement CNF simplified the grammar and made it easier to work with.I learned more about formal languages and automata theory while studying CNF, but I also gained important knowledge about the structure of natural languages and the methods used to analyze and process them. CNF is a key idea in the industry since it can be a useful tool for creating more effective algorithms and systems for natural language processing. 
 
-To sum up, this technique was useful for my experience and it allowed me to understand more complex concepts.
+Overall, this experience helped me better understand more complex ideas.
 
 ## References
 
