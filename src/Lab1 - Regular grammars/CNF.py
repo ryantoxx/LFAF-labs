@@ -85,13 +85,12 @@ class CNF:
         flag = 1
         final = {}
         for production in self.P:
-            for rule in self.P[production]:
-                if len(rule) > 2:
-                    print(production, '->', 'Y')
+            for symbol in self.P[production]:
+                if len(symbol) > 2:
                     final[production] = 'Y'
 
         production = list(self.P.keys())[1]
-        for rule in self.P[production]:
+        for symbol in self.P[production]:
             if len(symbol) > 2:
                 while len(symbol) > 2:
                     final[('X' + str(flag))] = symbol[:2]
